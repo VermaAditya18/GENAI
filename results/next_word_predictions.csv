@@ -1,0 +1,13 @@
+context,true_next,model,top5
+"say a word without <unk> his own family . well , your own good sense",will,SimpleRNN,", (0.528), . (0.139), ? (0.118), ! (0.036), is (0.021)"
+"say a word without <unk> his own family . well , your own good sense",will,BiRNN,", (0.384), . (0.233), ? (0.027), of (0.027), ! (0.025)"
+"say a word without <unk> his own family . well , your own good sense",will,LSTM,", (0.298), is (0.188), . (0.125), ? (0.063), ! (0.054)"
+"say a word without <unk> his own family . well , your own good sense",will,GRU,", (0.392), is (0.218), . (0.067), ! (0.055), ? (0.028)"
+"me think that perhaps he was joking . my <unk> duties , then , i",asked,SimpleRNN,"have (0.131), think (0.073), should (0.071), was (0.043), had (0.041)"
+"me think that perhaps he was joking . my <unk> duties , then , i",asked,BiRNN,"have (0.161), shall (0.104), believe (0.056), am (0.044), think (0.030)"
+"me think that perhaps he was joking . my <unk> duties , then , i",asked,LSTM,"am (0.091), have (0.086), think (0.081), should (0.034), had (0.034)"
+"me think that perhaps he was joking . my <unk> duties , then , i",asked,GRU,"was (0.061), have (0.053), think (0.049), had (0.048), am (0.046)"
+worn before . it could not have been a better fit if i had been,measured,SimpleRNN,"to (0.057), in (0.039), seen (0.038), able (0.024), of (0.024)"
+worn before . it could not have been a better fit if i had been,measured,BiRNN,"cut (0.124), to (0.044), in (0.035), seen (0.028), drawn (0.026)"
+worn before . it could not have been a better fit if i had been,measured,LSTM,"able (0.055), to (0.041), seen (0.032), in (0.026), so (0.021)"
+worn before . it could not have been a better fit if i had been,measured,GRU,"seen (0.116), to (0.051), able (0.050), in (0.048), the (0.025)"

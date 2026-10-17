@@ -1,0 +1,22 @@
+{
+  "Stories": 12,
+  "Characters (story text)": 561229,
+  "Paragraphs": 2527,
+  "Paragraphs containing dialogue (%)": 90.7,
+  "Sentences (approx.)": 6805,
+  "Words (raw)": 105139,
+  "Distinct words (case-insensitive)": 7930,
+  "Mean words per sentence": 15.45,
+  "Median words per sentence": 12.0,
+  "Tokens (words + punctuation)": 120028,
+  "Word tokens": 105277,
+  "Punctuation tokens": 14751,
+  "Distinct word types": 7995,
+  "Type-token ratio (words)": 0.0759,
+  "Hapax legomena (words seen once)": 3553,
+  "Hapax share of word types (%)": 44.4,
+  "Vocabulary size": 3918,
+  "Training sequences": 92634,
+  "Validation sequences": 11259,
+  "Test sequences": 11116
+}
